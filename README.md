@@ -1,2 +1,3 @@
 # py_web
-tiny http server in Python
+
+Just a tiny http server in Python

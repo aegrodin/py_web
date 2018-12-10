@@ -2,8 +2,10 @@ import http.server
 import socketserver
 import os
 
+# define port here
 PORT = 8000
 
+# define webroot here
 web_dir = os.path.join(os.path.dirname(__file__), 'web')
 os.chdir(web_dir)
 
